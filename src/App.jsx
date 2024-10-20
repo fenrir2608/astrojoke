@@ -151,7 +151,7 @@ Include Indian cultural references and occasional Hindi phrases, such as "Dhyaan
           },
         },
         {
-          params: { key: "AIzaSyDPsCwZpQzE8W1qCb2Y0KG3OM4aPS73lKw" },
+          params: { key: "YOUR_API_KEY_HERE" },
           headers: { "Content-Type": "application/json" },
         }
       );
